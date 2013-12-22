@@ -376,6 +376,7 @@ table.plain {
     width: auto;
     margin: 0 auto;
     line-height: 0;
+    border-radius: 50px;
 }
 
 #back {
